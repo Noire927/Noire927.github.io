@@ -1,0 +1,11 @@
+@use "../core/" as *;
+@use "../components/" as *;
+
+body {
+  background: black;
+}
+
+.HeaderOne {
+  color: red;
+  text-align: center;
+}
